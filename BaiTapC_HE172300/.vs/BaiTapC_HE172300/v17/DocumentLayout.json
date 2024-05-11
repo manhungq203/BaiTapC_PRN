@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\BaiTapPRN\\BaiTapPRN\\BaiTapC_HE172300\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273AF763-5468-4DE7-A240-18DB40F8C007}|BaiTapC_HE172300\\BaiTapC_HE172300.csproj|c:\\users\\user\\onedrive\\desktop\\ky_5\\baitapprn\\baitapprn\\baitapc_he172300\\baitapc_he172300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273AF763-5468-4DE7-A240-18DB40F8C007}|BaiTapC_HE172300\\BaiTapC_HE172300.csproj|solutionrelative:baitapc_he172300\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\BaiTapPRN\\BaiTapPRN\\BaiTapC_HE172300\\BaiTapC_HE172300\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTapC_HE172300\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Ky_5\\BaiTapPRN\\BaiTapPRN\\BaiTapC_HE172300\\BaiTapC_HE172300\\Program.cs",
+              "RelativeToolTip": "BaiTapC_HE172300\\Program.cs",
+              "ViewState": "AQIAAHoBAAAAAAAAAAAUwJEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T06:08:11.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
